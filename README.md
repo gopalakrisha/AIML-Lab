@@ -15,3 +15,5 @@ https://github.com/gopalakrisha/AIML-Lab/blob/main/AIML%20LAB-07.ipynb
 https://github.com/gopalakrisha/AIML-Lab/blob/main/AIML%20LAB-08%20.ipynb
 
 https://github.com/gopalakrisha/AIML-Lab/blob/main/LAB_009.ipynb
+
+https://github.com/gopalakrisha/AIML-Lab/blob/main/LAB_010.ipynb
